@@ -1,4 +1,4 @@
-# AI-Course
+# AI - Basics :
 
 - this course contains notebooks explaining Basics of ANN by simple code.
 - first follow the Tensorflow installation instructions from Tensorflow installation.docx
